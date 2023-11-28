@@ -73,7 +73,7 @@
     "face-api.js": "^0.22.2",
     "fetch-cookie": "^0.11.0",
     "gpt3-tokenizer": "1.1.5",
-    "hbs": "~4.0.4",
+    "hbs": "~4.1.1",
     "http": "0.0.1-security",
     "http-errors": "~1.6.3",
     "human-readable-ids": "^1.0.4",
