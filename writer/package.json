@@ -60,7 +60,7 @@
     "@tiptap/extension-underline": "^2.0.0-beta.220",
     "@tiptap/extension-youtube": "^2.0.0-beta.220",
     "@tiptap/html": "^2.0.0-beta.220",
-    "@tiptap/pm": "^2.0.0-beta.220",
+    "@tiptap/pm": "^2.0.0",
     "@tiptap/react": "^2.0.0-beta.219",
     "@tiptap/starter-kit": "^2.0.0-beta.219",
     "@tiptap/suggestion": "^2.0.0-beta.220",
